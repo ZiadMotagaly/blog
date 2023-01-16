@@ -1,4 +1,4 @@
-baseURL = 'https://ZiadMotagaly.gitlab.io/blog/'
+baseURL = 'https://ZiadMotagaly.github.io/blog/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'VAR Hugo Site'
 theme = "aether"
