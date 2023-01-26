@@ -1,4 +1,4 @@
-baseURL = 'https://ZiadMotagaly.github.io/blog/'
+baseURL = "https://ZiadMotagaly.github.io/blog/"
 languageCode = 'en-us'
 title = 'VAR Hugo Site'
 theme = "aether"
